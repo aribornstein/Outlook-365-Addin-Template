@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\Outlook365AppTemplateManifest.xml
+C:\Users\abornst\Documents\Visual Studio 2015\Projects\Outlook365AppTemplate\Outlook365AppTemplate\bin\Debug\Outlook365AppTemplate.debugapp
